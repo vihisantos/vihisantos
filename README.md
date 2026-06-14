@@ -12,9 +12,7 @@
   <img alt="Terminal Neofetch" src="terminal.svg" width="100%" />
 </p>
 
-<div align="center">
-  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZzM2hpcDIyemg5Mmc4MnJ3M3dydmxoY3NlajdpY2UyMHA5cHczbSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" />
-</div>
+
 
 ---
 
