@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=header&text=Vitor%20Santos&fontSize=50&fontAlignY=35&desc=%20CEO%20%26%20Founder%20%40%20Capybara%20Holding%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=blueviolet&center=true&vCenter=true&width=600&lines=CEO+%26+Founder+%40+Capybara+Holding;Full-Stack+Developer;React+%7C+Svelte+%7C+TypeScript;Node.js+•+Vite+•+Tailwind;TypeScript+•+JavaScript+•+HTML+•+CSS;Capybara+Holding+•+GitReady;Sempre+aprendendo+coisas+novas!" />
 </p>
 
@@ -86,6 +82,3 @@ Full-stack developer apaixonado por criar soluções modernas, escaláveis e com
   <img src="https://visitcount.itsvg.in/api?id=vihisantos&label=Visitantes&color=6A0DAD&icon=5&pretty=true" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" />
-</p>
