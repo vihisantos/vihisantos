@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor Santos 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=blueviolet&center=true&vCenter=true&width=500&lines=CEO+%26+Founder+%40+Capybara+Holding;Full-Stack+Developer;React+%7C+Svelte+%7C+TypeScript;Sempre+aprendendo+coisas+novas!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=blueviolet&center=true&vCenter=true&width=600&lines=CEO+%26+Founder+%40+Capybara+Holding;Full-Stack+Developer;React+%7C+Svelte+%7C+TypeScript;Node.js+•+Vite+•+Tailwind;TypeScript+•+JavaScript+•+HTML+•+CSS;Capybara+Holding+•+GitReady;Sempre+aprendendo+coisas+novas!" />
 </p>
 
 ---
@@ -11,6 +11,10 @@
 <p align="center">
   <img alt="Terminal Neofetch" src="terminal.svg" width="100%" />
 </p>
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZzM2hpcDIyemg5Mmc4MnJ3M3dydmxoY3NlajdpY2UyMHA5cHczbSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
 
 
 
@@ -117,64 +121,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,html,css,vite,tailwind,sass,git,github,vscode,figma" />
   </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Ferramentas</strong></td>
-    <td align="center"><strong>Design</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📁 Templates
-
-<p align="center">
-  <strong>React + Vite</strong>
-</p>
-<p align="center">
-  <a href="https://github.com/vihisantos/template-agencia-empresa-react"><img src="https://img.shields.io/badge/Agência-0866FF?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-advogado-juridico-react"><img src="https://img.shields.io/badge/Jurídico-D4AF37?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-restaurante-delivery-react"><img src="https://img.shields.io/badge/Restaurante-FF5722?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-clinica-saude-react"><img src="https://img.shields.io/badge/Clínica-00BCD4?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-fotografo-criativo-react"><img src="https://img.shields.io/badge/Fotógrafo-E91E63?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-loja-produto-unico-react"><img src="https://img.shields.io/badge/Loja-FF9800?style=flat-square&logo=react&logoColor=white" /></a>
-</p>
-<p align="center">
-  <strong>HTML + CSS</strong>
-</p>
-<p align="center">
-  <a href="https://github.com/vihisantos/template-agencia-empresa"><img src="https://img.shields.io/badge/Agência-0866FF?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-advogado-juridico"><img src="https://img.shields.io/badge/Jurídico-D4AF37?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-restaurante-delivery"><img src="https://img.shields.io/badge/Restaurante-FF5722?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-clinica-saude"><img src="https://img.shields.io/badge/Clínica-00BCD4?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-fotografo-criativo"><img src="https://img.shields.io/badge/Fotógrafo-E91E63?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos/template-loja-produto-unico"><img src="https://img.shields.io/badge/Loja-FF9800?style=flat-square&logo=html5&logoColor=white" /></a>
 </p>
 
 ---
