@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=vihisantos&label=Visitantes&labelColor=556B2F&countColor=556B2F&style=flat" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=vihisantos&label=Visitantes&labelColor=556B2F&countColor=556B2F&style=plastic&logo=github" />
 </p>
 
 <p align="center">
