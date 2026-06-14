@@ -21,8 +21,17 @@
 <p align="center"><img src="organizacoes.svg" /></p>
 
 <p align="center">
-  <a href="https://github.com/GitReady"><img src="https://img.shields.io/badge/GitReady-00C853?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos"><img src="capybara-holding-logo.svg" width="40" height="40" /></a>
+  <a href="https://github.com/Capybara-Holding-S-A">
+    <img src="capybara-holding-logo.svg" width="60" height="60" />
+    <br/>
+    <strong>Capybara Holding</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VHI-Labs">
+    <img src="VHI-labs.svg" width="60" height="60" />
+    <br/>
+    <strong>VHI Labs</strong>
+  </a>
 </p>
 
 ---
