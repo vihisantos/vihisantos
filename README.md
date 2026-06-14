@@ -8,7 +8,7 @@
 
 ---
 
-### 👋 Sobre mim
+<p align="center"><img src="https://img.shields.io/badge/Sobre%20Mim-556B2F?style=for-the-badge" /></p>
 
 CEO & Founder da **Capybara Holding** — uma organização guarda-chuva dos meus projetos Dev.  
 Full-stack developer apaixonado por criar soluções modernas, escaláveis e com experiência de impacto.
@@ -17,7 +17,7 @@ Full-stack developer apaixonado por criar soluções modernas, escaláveis e com
 
 ---
 
-### 🏢 Organizações
+<p align="center"><img src="https://img.shields.io/badge/Organiza%C3%A7%C3%B5es-8B5A2B?style=for-the-badge" /></p>
 
 <p align="center">
   <a href="https://github.com/GitReandy"><img src="https://img.shields.io/badge/GitReady-00C853?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -26,7 +26,7 @@ Full-stack developer apaixonado por criar soluções modernas, escaláveis e com
 
 ---
 
-### 📊 GitHub Stats
+<p align="center"><img src="https://img.shields.io/badge/GitHub%20Stats-556B2F?style=for-the-badge" /></p>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vihisantos&show_icons=true&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F&include_all_commits=true&count_private=true" />
@@ -39,7 +39,7 @@ Full-stack developer apaixonado por criar soluções modernas, escaláveis e com
 
 ---
 
-### 🧰 Tech Stack
+<p align="center"><img src="https://img.shields.io/badge/Tech%20Stack-8B5A2B?style=for-the-badge" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,html,css,vite,tailwind,sass,git,github,vscode,figma" />
@@ -47,7 +47,7 @@ Full-stack developer apaixonado por criar soluções modernas, escaláveis e com
 
 ---
 
-### 🚀 Projetos em destaque
+<p align="center"><img src="https://img.shields.io/badge/Projetos%20em%20Destaque-556B2F?style=for-the-badge" /></p>
 
 <div align="center">
   <a href="https://github.com/vihisantos/CapyFlow-Academy">
@@ -73,7 +73,7 @@ Full-stack developer apaixonado por criar soluções modernas, escaláveis e com
 
 ---
 
-### 📫 Contato
+<p align="center"><img src="https://img.shields.io/badge/Contato-8B5A2B?style=for-the-badge" /></p>
 
 <p align="center">
   <a href="https://vihisantos.github.io/My.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-556B2F?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
