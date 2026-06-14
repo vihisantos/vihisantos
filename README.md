@@ -10,10 +10,11 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Sobre%20Mim-556B2F?style=for-the-badge" /></p>
 
-CEO & Founder da **Capybara Holding** — uma organização guarda-chuva dos meus projetos Dev.  
-Full-stack developer apaixonado por criar soluções modernas, escaláveis e com experiência de impacto.
-
-📍 Piracicaba - SP
+<p align="center">
+  CEO & Founder da <strong>Capybara Holding</strong> — uma organização guarda-chuva dos meus projetos Dev.<br/>
+  Full-stack developer apaixonado por criar soluções modernas, escaláveis e com experiência de impacto.<br/>
+  📍 Piracicaba - SP
+</p>
 
 ---
 
