@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vihisantos&label=Visitantes&color=8B5A2B&icon=5&pretty=true" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=vihisantos&label=Visitantes&labelColor=556B2F&countColor=556B2F&style=flat" />
 </p>
 
 <p align="center">
