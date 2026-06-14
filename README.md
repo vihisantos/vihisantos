@@ -9,33 +9,12 @@
 ### 👨‍💻 Sobre mim
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZzM2hpcDIyemg5Mmc4MnJ3M3dydmxoY3NlajdpY2UyMHA5cHczbSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img alt="Terminal Neofetch" src="terminal.svg" width="100%" />
 </p>
 
-```yaml
-name: Vitor Santos
-location: Piracicaba - SP
-role: CEO & Founder @ Capybara Holding
-portfolio: https://vihisantos.github.io/My.Portfolio/
-instagram: @vih_isantos__
-
-bio: >
-  CEO & Founder da Capybara Holding, uma organização criada com o intuito
-  de ser o "Guarda-chuva" de meus projetos Dev. Full-stack developer
-  apaixonado por criar soluções modernas e escaláveis.
-
-currently_working_on:
-  - CapyFlow-Academy
-  - site_institucional
-  - portfolio-profissional
-
-learning:
-  - Arquiteturas escaláveis
-  - UX/UI Design
-  - Cloud & DevOps
-```
-
-<br clear="right"/>
+<div align="center">
+  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZzM2hpcDIyemg5Mmc4MnJ3M3dydmxoY3NlajdpY2UyMHA5cHczbSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
 
 ---
 
