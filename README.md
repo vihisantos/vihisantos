@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAyMDAgMzYiPgogIDxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxOTgiIGhlaWdodD0iMzQiIHJ4PSI2IiByeT0iNiIgZmlsbD0iIzhCNUEyQiIgb3BhY2l0eT0iMC4wOCIvPgogIDxyZWN0IHg9IjEiIHk9IjEiIHdpZHRoPSIxOTgiIGhlaWdodD0iMzQiIHJ4PSI2IiByeT0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOEI1QTJCIiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4zIi8+CiAgPHRleHQgeD0iMTAwIiB5PSIyMyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdQYWxhdGlubyBMaW5vdHlwZScsICdCb29rIEFudGlxdWEnLCBQYWxhdGlubywgc2VyaWYiIGZvbnQtd2VpZ2h0PSIyMDAiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZm9udC1zaXplPSIxNSIgZmlsbD0iIzhCNUEyQiIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+T3JnYW5pemHDp8O1ZXM8L3RleHQ+Cjwvc3ZnPg==" /></p>
+<p align="center"><img src="organizacoes.svg" /></p>
 
 <p align="center">
   <a href="https://github.com/GitReandy"><img src="https://img.shields.io/badge/GitReady-00C853?style=for-the-badge&logo=github&logoColor=white" /></a>
