@@ -21,8 +21,8 @@
 <p align="center"><img src="organizacoes.svg" /></p>
 
 <p align="center">
-  <a href="https://github.com/GitReandy"><img src="https://img.shields.io/badge/GitReady-00C853?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/vihisantos"><img src="https://img.shields.io/badge/Capybara_Holding-556B2F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/GitReady"><img src="https://img.shields.io/badge/GitReady-00C853?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/vihisantos"><img src="capybara-holding-logo.svg" width="40" height="40" /></a>
 </p>
 
 ---
