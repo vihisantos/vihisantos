@@ -22,15 +22,11 @@
 
 <p align="center">
   <a href="https://github.com/Capybara-Holding-S-A">
-    <img src="capybara-holding-logo.svg" width="56" />
-    <br />
-    <img src="card-capybara.svg" width="230" />
+    <img src="card-capybara.svg" width="220" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VHI-Labs">
-    <img src="VHI-labs.svg" width="56" />
-    <br />
-    <img src="card-vhi.svg" width="230" />
+    <img src="card-vhi.svg" width="220" />
   </a>
 </p>
 
