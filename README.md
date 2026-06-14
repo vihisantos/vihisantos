@@ -20,24 +20,19 @@
 
 <p align="center"><img src="organizacoes.svg" /></p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Capybara-Holding-S-A">
-        <img src="capybara-holding-logo.svg" width="100" />
-      </a>
-      <br />
-      <strong>Capybara Holding</strong>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VHI-Labs">
-        <img src="VHI-labs.svg" width="100" />
-      </a>
-      <br />
-      <strong>VHI Labs</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Capybara-Holding-S-A">
+    <img src="capybara-holding-logo.svg" width="56" />
+    <br />
+    <img src="card-capybara.svg" width="230" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VHI-Labs">
+    <img src="VHI-labs.svg" width="56" />
+    <br />
+    <img src="card-vhi.svg" width="230" />
+  </a>
+</p>
 
 ---
 
