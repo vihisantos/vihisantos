@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/Sobre%20Mim-556B2F?style=for-the-badge" /></p>
+<p align="center"><img src="sobre-mim.svg" /></p>
 
 <p align="center">
   CEO & Founder da <strong>Capybara Holding</strong> — uma organização guarda-chuva dos meus projetos Dev.<br/>
@@ -27,7 +27,7 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/GitHub%20Stats-556B2F?style=for-the-badge" /></p>
+<p align="center"><img src="github-stats.svg" /></p>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vihisantos&show_icons=true&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F&include_all_commits=true&count_private=true" />
@@ -40,7 +40,7 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/Tech%20Stack-8B5A2B?style=for-the-badge" /></p>
+<p align="center"><img src="tech-stack.svg" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,html,css,vite,tailwind,sass,git,github,vscode,figma" />
@@ -48,7 +48,7 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/Projetos%20em%20Destaque-556B2F?style=for-the-badge" /></p>
+<p align="center"><img src="projetos-em-destaque.svg" /></p>
 
 <div align="center">
   <a href="https://github.com/vihisantos/CapyFlow-Academy">
@@ -74,7 +74,7 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/Contato-8B5A2B?style=for-the-badge" /></p>
+<p align="center"><img src="contato.svg" /></p>
 
 <p align="center">
   <a href="https://vihisantos.github.io/My.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-556B2F?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
