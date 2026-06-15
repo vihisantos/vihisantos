@@ -119,4 +119,5 @@
   <!-- colorflick -->
   <rect x="990" y="140" width="110" height="55" class="node"/>
   <text x="1045" y="154" class="proj-name">colorflick</text>
+  <image href="https://skillicons.dev/icons?i=react,javascript,vite,tailwind&perline=4&theme=light" x="1005" y="160" width="80" height="22"/>
 </svg>
