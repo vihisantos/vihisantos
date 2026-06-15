@@ -30,6 +30,14 @@
   </a>
 </p>
 
+<p align="center"><img src="projetos-orgs.svg" /></p>
+
+<p align="center">
+  <img src="org-capybara.svg?v=1" width="420" />
+  <br/><br/>
+  <img src="org-vhi.svg?v=1" width="420" />
+</p>
+
 ---
 
 <p align="center"><img src="github-stats.svg" /></p>

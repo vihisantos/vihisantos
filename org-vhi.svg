@@ -1,0 +1,28 @@
+<svg width="420" height="270" viewBox="0 0 420 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 15px; fill: #8B5A2B; text-anchor: middle; }
+    .subtitle { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #556B2F; text-anchor: middle; }
+    .node { fill: rgba(139, 90, 43, 0.06); stroke: #8B5A2B; stroke-width: 1.5; rx: 8; ry: 8; }
+    .line { stroke: #8B5A2B; stroke-width: 1.5; fill: none; }
+    .dashed { stroke: #8B5A2B; stroke-width: 1.5; fill: none; stroke-dasharray: 5,5; }
+  </style>
+
+  <!-- Root node -->
+  <rect x="140" y="20" width="140" height="45" class="node"/>
+  <text x="210" y="47" class="title">VHI Labs</text>
+
+  <!-- Line -->
+  <path d="M210 65 L210 90" class="line"/>
+
+  <!-- Child -->
+  <rect x="95" y="90" width="230" height="65" class="node"/>
+  <text x="210" y="118" class="title">Fila H da Hovet</text>
+  <text x="210" y="137" class="subtitle">(Recepção / Triagem / TV)</text>
+
+  <!-- Dashed line for future -->
+  <path d="M210 155 L210 180" class="dashed"/>
+
+  <!-- Future placeholder -->
+  <rect x="130" y="180" width="160" height="45" class="dashed" stroke-dasharray="5,5"/>
+  <text x="210" y="207" class="subtitle" fill="#8B5A2B" font-size="11">Futuros projetos</text>
+</svg>

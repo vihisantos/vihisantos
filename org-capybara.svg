@@ -1,0 +1,29 @@
+<svg width="420" height="250" viewBox="0 0 420 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 15px; fill: #8B5A2B; text-anchor: middle; }
+    .subtitle { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #556B2F; text-anchor: middle; }
+    .node { fill: rgba(139, 90, 43, 0.06); stroke: #8B5A2B; stroke-width: 1.5; rx: 8; ry: 8; }
+    .line { stroke: #8B5A2B; stroke-width: 1.5; fill: none; }
+  </style>
+
+  <!-- Root node -->
+  <rect x="125" y="25" width="170" height="50" class="node"/>
+  <text x="210" y="48" class="title" font-size="15">Capybara Holding</text>
+  <text x="210" y="63" class="subtitle" font-size="11">S.A.</text>
+
+  <!-- Tree lines -->
+  <path d="M210 75 L210 95" class="line"/>
+  <path d="M120 95 L300 95" class="line"/>
+  <path d="M120 95 L120 115" class="line"/>
+  <path d="M300 95 L300 115" class="line"/>
+
+  <!-- Left child -->
+  <rect x="40" y="115" width="160" height="65" class="node"/>
+  <text x="120" y="143" class="title">Terapia Quântica</text>
+  <text x="120" y="162" class="subtitle">(Landing Page)</text>
+
+  <!-- Right child -->
+  <rect x="220" y="115" width="160" height="65" class="node"/>
+  <text x="300" y="143" class="title">Melancia Queen</text>
+  <text x="300" y="162" class="subtitle">(E-commerce)</text>
+</svg>
