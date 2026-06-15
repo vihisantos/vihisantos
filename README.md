@@ -35,7 +35,7 @@
 <p align="center"><img src="github-stats.svg" /></p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vihisantos&show_icons=true&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihisantos&theme=gruvbox" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihisantos&layout=compact&langs_count=6&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true" />
 </p>
 
