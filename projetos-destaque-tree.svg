@@ -1,4 +1,4 @@
-<svg width="1500" height="370" viewBox="0 0 1500 370" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="370" viewBox="0 0 1600 370" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .root-text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 14px; fill: #8B5A2B; text-anchor: middle; }
     .cat-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #556B2F; text-anchor: middle; font-weight: bold; }
@@ -11,113 +11,113 @@
   </style>
 
   <!-- Root -->
-  <rect x="650" y="15" width="200" height="40" class="node"/>
-  <text x="750" y="40" class="root-text" font-size="14">Projetos em Destaque</text>
+  <rect x="700" y="15" width="200" height="40" class="node"/>
+  <text x="800" y="40" class="root-text" font-size="14">Projetos em Destaque</text>
 
   <!-- Root → Categories -->
-  <path d="M750 55 L750 70" class="line"/>
-  <path d="M250 70 L1250 70" class="line"/>
-  <path d="M250 70 L250 78" class="line"/>
-  <path d="M750 70 L750 78" class="line"/>
-  <path d="M1250 70 L1250 78" class="line"/>
-  <circle cx="250" cy="70" r="2.5" class="dot"/>
-  <circle cx="750" cy="70" r="2.5" class="dot"/>
-  <circle cx="1250" cy="70" r="2.5" class="dot"/>
+  <path d="M800 55 L800 70" class="line"/>
+  <path d="M200 70 L1400 70" class="line"/>
+  <path d="M200 70 L200 78" class="line"/>
+  <path d="M800 70 L800 78" class="line"/>
+  <path d="M1400 70 L1400 78" class="line"/>
+  <circle cx="200" cy="70" r="2.5" class="dot"/>
+  <circle cx="800" cy="70" r="2.5" class="dot"/>
+  <circle cx="1400" cy="70" r="2.5" class="dot"/>
 
   <!-- Categories -->
-  <rect x="165" y="78" width="170" height="30" class="cat-node"/>
-  <text x="250" y="97" class="cat-text">Plataformas</text>
+  <rect x="115" y="78" width="170" height="30" class="cat-node"/>
+  <text x="200" y="97" class="cat-text">Plataformas</text>
 
-  <rect x="663" y="78" width="174" height="30" class="cat-node"/>
-  <text x="750" y="97" class="cat-text">Portfólios &amp; Sites</text>
+  <rect x="713" y="78" width="174" height="30" class="cat-node"/>
+  <text x="800" y="97" class="cat-text">Portfólios &amp; Sites</text>
 
-  <rect x="1163" y="78" width="174" height="30" class="cat-node"/>
-  <text x="1250" y="97" class="cat-text">Ferramentas &amp; Apps</text>
+  <rect x="1313" y="78" width="174" height="30" class="cat-node"/>
+  <text x="1400" y="97" class="cat-text">Ferramentas &amp; Apps</text>
 
   <!-- Category → Projects (C1) -->
-  <path d="M250 108 L250 120" class="line"/>
-  <path d="M110 120 L390 120" class="line"/>
-  <circle cx="250" cy="120" r="2.5" class="dot"/>
-  <path d="M110 120 L110 138" class="line"/>
-  <path d="M250 120 L250 138" class="line"/>
-  <path d="M390 120 L390 138" class="line"/>
-  <circle cx="110" cy="120" r="2" class="dot"/>
-  <circle cx="250" cy="120" r="2" class="dot"/>
-  <circle cx="390" cy="120" r="2" class="dot"/>
+  <path d="M200 108 L200 120" class="line"/>
+  <path d="M70 120 L330 120" class="line"/>
+  <circle cx="200" cy="120" r="2.5" class="dot"/>
+  <path d="M70 120 L70 138" class="line"/>
+  <path d="M200 120 L200 138" class="line"/>
+  <path d="M330 120 L330 138" class="line"/>
+  <circle cx="70" cy="120" r="2" class="dot"/>
+  <circle cx="200" cy="120" r="2" class="dot"/>
+  <circle cx="330" cy="120" r="2" class="dot"/>
 
   <!-- C1 Projects -->
-  <rect x="45" y="138" width="130" height="60" class="node"/>
-  <text x="110" y="154" class="proj-name">CapyFlow-Academy</text>
-  <text x="110" y="167" class="tech">Next React TS Tailwind</text>
-  <text x="110" y="177" class="tech">NestJS PostgreSQL Firebase</text>
+  <rect x="10" y="138" width="120" height="62" class="node"/>
+  <text x="70" y="155" class="proj-name">CapyFlow-Academy</text>
+  <text x="70" y="168" class="tech">Next React TS Tailwind</text>
+  <text x="70" y="178" class="tech">NestJS PostgreSQL Firebase</text>
 
-  <rect x="185" y="138" width="130" height="60" class="node"/>
-  <text x="250" y="154" class="proj-name">Med_Hub</text>
-  <text x="250" y="167" class="tech">React TS Vite Tailwind</text>
-  <text x="250" y="177" class="tech">Node Express PostgreSQL</text>
+  <rect x="140" y="138" width="120" height="62" class="node"/>
+  <text x="200" y="155" class="proj-name">Med_Hub</text>
+  <text x="200" y="168" class="tech">React TS Vite Tailwind</text>
+  <text x="200" y="178" class="tech">Node Express PostgreSQL</text>
 
-  <rect x="325" y="138" width="130" height="60" class="node"/>
-  <text x="390" y="154" class="proj-name">vitrine 360</text>
-  <text x="390" y="167" class="tech">React Vite Tailwind Supabase</text>
-  <text x="390" y="177" class="tech">PostgreSQL Node Vercel</text>
+  <rect x="270" y="138" width="120" height="62" class="node"/>
+  <text x="330" y="155" class="proj-name">vitrine 360</text>
+  <text x="330" y="168" class="tech">React Vite Tailwind Supabase</text>
+  <text x="330" y="178" class="tech">PostgreSQL Node Vercel</text>
 
   <!-- Category → Projects (C2) -->
-  <path d="M750 108 L750 120" class="line"/>
-  <path d="M525 120 L975 120" class="line"/>
-  <circle cx="750" cy="120" r="2.5" class="dot"/>
-  <path d="M525 120 L525 138" class="line"/>
-  <path d="M675 120 L675 138" class="line"/>
-  <path d="M825 120 L825 138" class="line"/>
-  <path d="M975 120 L975 138" class="line"/>
-  <circle cx="525" cy="120" r="2" class="dot"/>
-  <circle cx="675" cy="120" r="2" class="dot"/>
-  <circle cx="825" cy="120" r="2" class="dot"/>
-  <circle cx="975" cy="120" r="2" class="dot"/>
+  <path d="M800 108 L800 120" class="line"/>
+  <path d="M568 120 L1033 120" class="line"/>
+  <circle cx="800" cy="120" r="2.5" class="dot"/>
+  <path d="M568 120 L568 138" class="line"/>
+  <path d="M723 120 L723 138" class="line"/>
+  <path d="M878 120 L878 138" class="line"/>
+  <path d="M1033 120 L1033 138" class="line"/>
+  <circle cx="568" cy="120" r="2" class="dot"/>
+  <circle cx="723" cy="120" r="2" class="dot"/>
+  <circle cx="878" cy="120" r="2" class="dot"/>
+  <circle cx="1033" cy="120" r="2" class="dot"/>
 
   <!-- C2 Projects -->
-  <rect x="455" y="138" width="140" height="60" class="node"/>
-  <text x="525" y="154" class="proj-name">My.Portfolio</text>
-  <text x="525" y="167" class="tech">React TS Vite Tailwind</text>
-  <text x="525" y="177" class="tech">Three.js Netlify Docker</text>
+  <rect x="503" y="138" width="130" height="62" class="node"/>
+  <text x="568" y="155" class="proj-name">My.Portfolio</text>
+  <text x="568" y="168" class="tech">React TS Vite Tailwind</text>
+  <text x="568" y="178" class="tech">Three.js Netlify Docker</text>
 
-  <rect x="605" y="138" width="140" height="60" class="node"/>
-  <text x="675" y="154" class="proj-name">portfolio-fotografo</text>
-  <text x="675" y="167" class="tech">React TS Vite Tailwind</text>
-  <text x="675" y="177" class="tech">Framer Motion Next.js</text>
+  <rect x="658" y="138" width="130" height="62" class="node"/>
+  <text x="723" y="155" class="proj-name">portfolio-fotografo</text>
+  <text x="723" y="168" class="tech">React TS Vite Tailwind</text>
+  <text x="723" y="178" class="tech">Framer Motion Next.js</text>
 
-  <rect x="755" y="138" width="140" height="60" class="node"/>
-  <text x="825" y="154" class="proj-name">portfolio profissional</text>
-  <text x="825" y="167" class="tech">React JS Vite</text>
-  <text x="825" y="177" class="tech">Framer Motion GA</text>
+  <rect x="813" y="138" width="130" height="62" class="node"/>
+  <text x="878" y="155" class="proj-name">portfolio profissional</text>
+  <text x="878" y="168" class="tech">React JS Vite</text>
+  <text x="878" y="178" class="tech">Framer Motion GA</text>
 
-  <rect x="905" y="138" width="140" height="60" class="node"/>
-  <text x="975" y="154" class="proj-name">site institucional</text>
-  <text x="975" y="167" class="tech">React TS Vite Tailwind</text>
-  <text x="975" y="177" class="tech">i18next Radix UI GA</text>
+  <rect x="968" y="138" width="130" height="62" class="node"/>
+  <text x="1033" y="155" class="proj-name">site institucional</text>
+  <text x="1033" y="168" class="tech">React TS Vite Tailwind</text>
+  <text x="1033" y="178" class="tech">i18next Radix UI GA</text>
 
   <!-- Category → Projects (C3) -->
-  <path d="M1250 108 L1250 120" class="line"/>
-  <path d="M1110 120 L1390 120" class="line"/>
-  <circle cx="1250" cy="120" r="2.5" class="dot"/>
-  <path d="M1110 120 L1110 138" class="line"/>
-  <path d="M1250 120 L1250 138" class="line"/>
-  <path d="M1390 120 L1390 138" class="line"/>
-  <circle cx="1110" cy="120" r="2" class="dot"/>
-  <circle cx="1250" cy="120" r="2" class="dot"/>
-  <circle cx="1390" cy="120" r="2" class="dot"/>
+  <path d="M1400 108 L1400 120" class="line"/>
+  <path d="M1270 120 L1530 120" class="line"/>
+  <circle cx="1400" cy="120" r="2.5" class="dot"/>
+  <path d="M1270 120 L1270 138" class="line"/>
+  <path d="M1400 120 L1400 138" class="line"/>
+  <path d="M1530 120 L1530 138" class="line"/>
+  <circle cx="1270" cy="120" r="2" class="dot"/>
+  <circle cx="1400" cy="120" r="2" class="dot"/>
+  <circle cx="1530" cy="120" r="2" class="dot"/>
 
   <!-- C3 Projects -->
-  <rect x="1045" y="138" width="130" height="60" class="node"/>
-  <text x="1110" y="154" class="proj-name">Koda (Svelte)</text>
-  <text x="1110" y="167" class="tech">Svelte TS Tailwind Vite</text>
-  <text x="1110" y="177" class="tech">Docker Netlify Chart.js</text>
+  <rect x="1210" y="138" width="120" height="62" class="node"/>
+  <text x="1270" y="155" class="proj-name">Koda (Svelte)</text>
+  <text x="1270" y="168" class="tech">Svelte TS Tailwind Vite</text>
+  <text x="1270" y="178" class="tech">Docker Netlify Chart.js</text>
 
-  <rect x="1185" y="138" width="130" height="60" class="node"/>
-  <text x="1250" y="154" class="proj-name">Zapedia</text>
-  <text x="1250" y="167" class="tech">React TS Vite Tailwind</text>
+  <rect x="1340" y="138" width="120" height="62" class="node"/>
+  <text x="1400" y="155" class="proj-name">Zapedia</text>
+  <text x="1400" y="168" class="tech">React TS Vite Tailwind</text>
 
-  <rect x="1325" y="138" width="130" height="60" class="node"/>
-  <text x="1390" y="154" class="proj-name">colorflick</text>
-  <text x="1390" y="167" class="tech">React JS Vite Tailwind</text>
-  <text x="1390" y="177" class="tech">GSAP Zustand TMDB</text>
+  <rect x="1470" y="138" width="120" height="62" class="node"/>
+  <text x="1530" y="155" class="proj-name">colorflick</text>
+  <text x="1530" y="168" class="tech">React JS Vite Tailwind</text>
+  <text x="1530" y="178" class="tech">GSAP Zustand TMDB</text>
 </svg>
