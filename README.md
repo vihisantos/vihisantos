@@ -61,29 +61,9 @@
 
 ---
 
-<p align="center"><img src="projetos-em-destaque.svg" /></p>
-
-<div align="center">
-  <a href="https://github.com/vihisantos/CapyFlow-Academy">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vihisantos&repo=CapyFlow-Academy&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F" />
-  </a>
-  <a href="https://github.com/vihisantos/My.Portfolio">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vihisantos&repo=My.Portfolio&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F" />
-  </a>
-  <a href="https://github.com/vihisantos/Med_Hub">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vihisantos&repo=Med_Hub&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F" />
-  </a>
-  <br/>
-  <a href="https://github.com/vihisantos/Koda_aplicacao_em_svelte">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vihisantos&repo=Koda_aplicacao_em_svelte&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F" />
-  </a>
-  <a href="https://github.com/vihisantos/Zapedia">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vihisantos&repo=Zapedia&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F" />
-  </a>
-  <a href="https://github.com/vihisantos/portfolio-fotografo">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=vihisantos&repo=portfolio-fotografo&title_color=8B5A2B&text_color=556B2F&bg_color=00000000&hide_border=true&icon_color=556B2F" />
-  </a>
-</div>
+<p align="center">
+  <img src="projetos-destaque-tree.svg?v=1" width="730" />
+</p>
 
 ---
 

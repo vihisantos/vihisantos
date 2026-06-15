@@ -1,0 +1,57 @@
+<svg width="730" height="240" viewBox="0 0 730 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 14px; fill: #8B5A2B; text-anchor: middle; }
+    .proj { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; fill: #556B2F; text-anchor: middle; }
+    .node { fill: rgba(139, 90, 43, 0.06); stroke: #8B5A2B; stroke-width: 1.5; rx: 8; ry: 8; }
+    .line { stroke: #8B5A2B; stroke-width: 1.5; fill: none; }
+    .dot { fill: #8B5A2B; }
+  </style>
+
+  <!-- Root node -->
+  <rect x="265" y="18" width="200" height="42" class="node"/>
+  <text x="365" y="44" class="title" font-size="14">Projetos em Destaque</text>
+
+  <!-- Line from root -->
+  <path d="M365 60 L365 78" class="line"/>
+
+  <!-- Horizontal bar -->
+  <path d="M80 78 L650 78" class="line"/>
+
+  <!-- Vertical drops and dots -->
+  <circle cx="80" cy="78" r="3" class="dot"/>
+  <path d="M80 78 L80 100" class="line"/>
+
+  <circle cx="194" cy="78" r="3" class="dot"/>
+  <path d="M194 78 L194 100" class="line"/>
+
+  <circle cx="308" cy="78" r="3" class="dot"/>
+  <path d="M308 78 L308 100" class="line"/>
+
+  <circle cx="422" cy="78" r="3" class="dot"/>
+  <path d="M422 78 L422 100" class="line"/>
+
+  <circle cx="536" cy="78" r="3" class="dot"/>
+  <path d="M536 78 L536 100" class="line"/>
+
+  <circle cx="650" cy="78" r="3" class="dot"/>
+  <path d="M650 78 L650 100" class="line"/>
+
+  <!-- Project nodes -->
+  <rect x="5" y="100" width="150" height="38" class="node"/>
+  <text x="80" y="123" class="proj">CapyFlow-Academy</text>
+
+  <rect x="119" y="100" width="150" height="38" class="node"/>
+  <text x="194" y="123" class="proj">My.Portfolio</text>
+
+  <rect x="233" y="100" width="150" height="38" class="node"/>
+  <text x="308" y="123" class="proj">Med_Hub</text>
+
+  <rect x="347" y="100" width="150" height="38" class="node"/>
+  <text x="422" y="123" class="proj">Koda_aplicacao_em_svelte</text>
+
+  <rect x="461" y="100" width="150" height="38" class="node"/>
+  <text x="536" y="123" class="proj">Zapedia</text>
+
+  <rect x="575" y="100" width="150" height="38" class="node"/>
+  <text x="650" y="123" class="proj">portfolio-fotografo</text>
+</svg>
