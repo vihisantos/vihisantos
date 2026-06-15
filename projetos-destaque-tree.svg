@@ -1,57 +1,120 @@
-<svg width="730" height="240" viewBox="0 0 730 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1150" height="360" viewBox="0 0 1150 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 14px; fill: #8B5A2B; text-anchor: middle; }
-    .proj { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; fill: #556B2F; text-anchor: middle; }
-    .node { fill: rgba(139, 90, 43, 0.06); stroke: #8B5A2B; stroke-width: 1.5; rx: 8; ry: 8; }
-    .line { stroke: #8B5A2B; stroke-width: 1.5; fill: none; }
+    .root-text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 14px; fill: #8B5A2B; text-anchor: middle; }
+    .cat-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #556B2F; text-anchor: middle; font-weight: bold; }
+    .proj-name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 9px; fill: #8B5A2B; text-anchor: middle; font-weight: bold; }
+    .node { fill: rgba(139, 90, 43, 0.06); stroke: #8B5A2B; stroke-width: 1.2; rx: 6; ry: 6; }
+    .cat-node { fill: rgba(139, 90, 43, 0.08); stroke: #8B5A2B; stroke-width: 1.2; rx: 6; ry: 6; }
+    .line { stroke: #8B5A2B; stroke-width: 1.2; fill: none; }
     .dot { fill: #8B5A2B; }
   </style>
 
-  <!-- Root node -->
-  <rect x="265" y="18" width="200" height="42" class="node"/>
-  <text x="365" y="44" class="title" font-size="14">Projetos em Destaque</text>
+  <!-- Root -->
+  <rect x="475" y="15" width="200" height="40" class="node"/>
+  <text x="575" y="40" class="root-text" font-size="14">Projetos em Destaque</text>
 
-  <!-- Line from root -->
-  <path d="M365 60 L365 78" class="line"/>
+  <!-- Root → Categories -->
+  <path d="M575 55 L575 70" class="line"/>
+  <path d="M175 70 L975 70" class="line"/>
+  <path d="M175 70 L175 78" class="line"/>
+  <path d="M575 70 L575 78" class="line"/>
+  <path d="M975 70 L975 78" class="line"/>
+  <circle cx="175" cy="70" r="2.5" class="dot"/>
+  <circle cx="575" cy="70" r="2.5" class="dot"/>
+  <circle cx="975" cy="70" r="2.5" class="dot"/>
 
-  <!-- Horizontal bar -->
-  <path d="M80 78 L650 78" class="line"/>
+  <!-- Categories -->
+  <rect x="90" y="78" width="170" height="30" class="cat-node"/>
+  <text x="175" y="97" class="cat-text">Plataformas</text>
 
-  <!-- Vertical drops and dots -->
-  <circle cx="80" cy="78" r="3" class="dot"/>
-  <path d="M80 78 L80 100" class="line"/>
+  <rect x="488" y="78" width="174" height="30" class="cat-node"/>
+  <text x="575" y="97" class="cat-text">Portfólios &amp; Sites</text>
 
-  <circle cx="194" cy="78" r="3" class="dot"/>
-  <path d="M194 78 L194 100" class="line"/>
+  <rect x="888" y="78" width="174" height="30" class="cat-node"/>
+  <text x="975" y="97" class="cat-text">Ferramentas &amp; Apps</text>
 
-  <circle cx="308" cy="78" r="3" class="dot"/>
-  <path d="M308 78 L308 100" class="line"/>
+  <!-- Category → Projects (C1) -->
+  <path d="M175 108 L175 122" class="line"/>
+  <path d="M105 122 L245 122" class="line"/>
+  <circle cx="175" cy="122" r="2.5" class="dot"/>
+  <path d="M105 122 L105 140" class="line"/>
+  <path d="M175 122 L175 140" class="line"/>
+  <path d="M245 122 L245 140" class="line"/>
+  <circle cx="105" cy="122" r="2" class="dot"/>
+  <circle cx="175" cy="122" r="2" class="dot"/>
+  <circle cx="245" cy="122" r="2" class="dot"/>
 
-  <circle cx="422" cy="78" r="3" class="dot"/>
-  <path d="M422 78 L422 100" class="line"/>
+  <!-- C1 Projects -->
+  <!-- CapyFlow-Academy -->
+  <rect x="50" y="140" width="110" height="55" class="node"/>
+  <text x="105" y="154" class="proj-name">CapyFlow-Academy</text>
+  <image href="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nestjs,postgres,firebase&perline=7&theme=light" x="53" y="160" width="104" height="22"/>
 
-  <circle cx="536" cy="78" r="3" class="dot"/>
-  <path d="M536 78 L536 100" class="line"/>
+  <!-- Med_Hub -->
+  <rect x="120" y="140" width="110" height="55" class="node"/>
+  <text x="175" y="154" class="proj-name">Med_Hub</text>
+  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,nodejs,postgres,express&perline=7&theme=light" x="123" y="160" width="104" height="22"/>
 
-  <circle cx="650" cy="78" r="3" class="dot"/>
-  <path d="M650 78 L650 100" class="line"/>
+  <!-- vitrine 360 -->
+  <rect x="190" y="140" width="110" height="55" class="node"/>
+  <text x="245" y="154" class="proj-name">vitrine 360</text>
+  <image href="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,postgres,nodejs,vercel&perline=7&theme=light" x="193" y="160" width="104" height="22"/>
 
-  <!-- Project nodes -->
-  <rect x="5" y="100" width="150" height="38" class="node"/>
-  <text x="80" y="123" class="proj">CapyFlow-Academy</text>
+  <!-- Category → Projects (C2) -->
+  <path d="M575 108 L575 122" class="line"/>
+  <path d="M410 122 L740 122" class="line"/>
+  <circle cx="575" cy="122" r="2.5" class="dot"/>
+  <path d="M410 122 L410 140" class="line"/>
+  <path d="M520 122 L520 140" class="line"/>
+  <path d="M630 122 L630 140" class="line"/>
+  <path d="M740 122 L740 140" class="line"/>
+  <circle cx="410" cy="122" r="2" class="dot"/>
+  <circle cx="520" cy="122" r="2" class="dot"/>
+  <circle cx="630" cy="122" r="2" class="dot"/>
+  <circle cx="740" cy="122" r="2" class="dot"/>
 
-  <rect x="119" y="100" width="150" height="38" class="node"/>
-  <text x="194" y="123" class="proj">My.Portfolio</text>
+  <!-- C2 Projects -->
+  <!-- My.Portfolio -->
+  <rect x="355" y="140" width="110" height="55" class="node"/>
+  <text x="410" y="154" class="proj-name">My.Portfolio</text>
+  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,threejs,netlify,docker&perline=7&theme=light" x="358" y="160" width="104" height="22"/>
 
-  <rect x="233" y="100" width="150" height="38" class="node"/>
-  <text x="308" y="123" class="proj">Med_Hub</text>
+  <!-- portfolio-fotografo -->
+  <rect x="465" y="140" width="110" height="55" class="node"/>
+  <text x="520" y="154" class="proj-name">portfolio-fotografo</text>
+  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,framer,reactrouter,nextjs&perline=7&theme=light" x="468" y="160" width="104" height="22"/>
 
-  <rect x="347" y="100" width="150" height="38" class="node"/>
-  <text x="422" y="123" class="proj">Koda_aplicacao_em_svelte</text>
+  <!-- portfolio profissional -->
+  <rect x="575" y="140" width="110" height="55" class="node"/>
+  <text x="630" y="154" class="proj-name">portfolio profissional</text>
 
-  <rect x="461" y="100" width="150" height="38" class="node"/>
-  <text x="536" y="123" class="proj">Zapedia</text>
+  <!-- site institucional -->
+  <rect x="685" y="140" width="110" height="55" class="node"/>
+  <text x="740" y="154" class="proj-name">site institucional</text>
 
-  <rect x="575" y="100" width="150" height="38" class="node"/>
-  <text x="650" y="123" class="proj">portfolio-fotografo</text>
+  <!-- Category → Projects (C3) -->
+  <path d="M975 108 L975 122" class="line"/>
+  <path d="M905 122 L1045 122" class="line"/>
+  <circle cx="975" cy="122" r="2.5" class="dot"/>
+  <path d="M905 122 L905 140" class="line"/>
+  <path d="M975 122 L975 140" class="line"/>
+  <path d="M1045 122 L1045 140" class="line"/>
+  <circle cx="905" cy="122" r="2" class="dot"/>
+  <circle cx="975" cy="122" r="2" class="dot"/>
+  <circle cx="1045" cy="122" r="2" class="dot"/>
+
+  <!-- C3 Projects -->
+  <!-- Koda -->
+  <rect x="850" y="140" width="110" height="55" class="node"/>
+  <text x="905" y="154" class="proj-name">Koda (Svelte)</text>
+  <image href="https://skillicons.dev/icons?i=svelte,typescript,tailwind,vite,docker,netlify&perline=6&theme=light" x="853" y="160" width="104" height="22"/>
+
+  <!-- Zapedia -->
+  <rect x="920" y="140" width="110" height="55" class="node"/>
+  <text x="975" y="154" class="proj-name">Zapedia</text>
+  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind&perline=4&theme=light" x="935" y="160" width="80" height="22"/>
+
+  <!-- colorflick -->
+  <rect x="990" y="140" width="110" height="55" class="node"/>
+  <text x="1045" y="154" class="proj-name">colorflick</text>
 </svg>

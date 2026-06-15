@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="projetos-destaque-tree.svg?v=1" width="730" />
+  <img src="projetos-destaque-tree.svg?v=2" width="100%" />
 </p>
 
 ---
