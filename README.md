@@ -48,7 +48,7 @@
 <p align="center"><img src="tech-stack.svg" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,html,css,vite,tailwind,sass,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,nextjs,html,css,vite,tailwind,sass,git,github,vscode,figma,postgresql,mysql,mongodb,sqlite,flutter,reactnative,angular,graphql,firebase,supabase,threejs,fastapi,pwa" />
 </p>
 
 ---
