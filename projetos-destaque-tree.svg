@@ -3,6 +3,7 @@
     .root-text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 14px; fill: #8B5A2B; text-anchor: middle; }
     .cat-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; fill: #556B2F; text-anchor: middle; font-weight: bold; }
     .proj-name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 9px; fill: #8B5A2B; text-anchor: middle; font-weight: bold; }
+    .tech { font-family: 'Segoe UI', Arial, sans-serif; font-size: 6.5px; fill: #556B2F; text-anchor: middle; }
     .node { fill: rgba(139, 90, 43, 0.06); stroke: #8B5A2B; stroke-width: 1.2; rx: 6; ry: 6; }
     .cat-node { fill: rgba(139, 90, 43, 0.08); stroke: #8B5A2B; stroke-width: 1.2; rx: 6; ry: 6; }
     .line { stroke: #8B5A2B; stroke-width: 1.2; fill: none; }
@@ -47,18 +48,21 @@
   <!-- C1 Projects -->
   <!-- CapyFlow-Academy -->
   <rect x="50" y="140" width="110" height="55" class="node"/>
-  <text x="105" y="154" class="proj-name">CapyFlow-Academy</text>
-  <image href="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nestjs,postgres,firebase&perline=7&theme=light" x="53" y="160" width="104" height="22"/>
+  <text x="105" y="153" class="proj-name">CapyFlow-Academy</text>
+  <text x="105" y="165" class="tech">Next React TS Tailwind</text>
+  <text x="105" y="173" class="tech">NestJS PostgreSQL Firebase</text>
 
   <!-- Med_Hub -->
   <rect x="120" y="140" width="110" height="55" class="node"/>
-  <text x="175" y="154" class="proj-name">Med_Hub</text>
-  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,nodejs,postgres,express&perline=7&theme=light" x="123" y="160" width="104" height="22"/>
+  <text x="175" y="153" class="proj-name">Med_Hub</text>
+  <text x="175" y="165" class="tech">React TS Vite Tailwind</text>
+  <text x="175" y="173" class="tech">Node Express PostgreSQL</text>
 
   <!-- vitrine 360 -->
   <rect x="190" y="140" width="110" height="55" class="node"/>
-  <text x="245" y="154" class="proj-name">vitrine 360</text>
-  <image href="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,postgres,nodejs,vercel&perline=7&theme=light" x="193" y="160" width="104" height="22"/>
+  <text x="245" y="153" class="proj-name">vitrine 360</text>
+  <text x="245" y="165" class="tech">React Vite Tailwind Supabase</text>
+  <text x="245" y="173" class="tech">PostgreSQL Node Vercel</text>
 
   <!-- Category → Projects (C2) -->
   <path d="M575 108 L575 122" class="line"/>
@@ -76,23 +80,27 @@
   <!-- C2 Projects -->
   <!-- My.Portfolio -->
   <rect x="355" y="140" width="110" height="55" class="node"/>
-  <text x="410" y="154" class="proj-name">My.Portfolio</text>
-  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,threejs,netlify,docker&perline=7&theme=light" x="358" y="160" width="104" height="22"/>
+  <text x="410" y="153" class="proj-name">My.Portfolio</text>
+  <text x="410" y="165" class="tech">React TS Vite Tailwind</text>
+  <text x="410" y="173" class="tech">Three.js Netlify Docker</text>
 
   <!-- portfolio-fotografo -->
   <rect x="465" y="140" width="110" height="55" class="node"/>
-  <text x="520" y="154" class="proj-name">portfolio-fotografo</text>
-  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,nextjs&perline=5&theme=light" x="470" y="160" width="100" height="22"/>
+  <text x="520" y="153" class="proj-name">portfolio-fotografo</text>
+  <text x="520" y="165" class="tech">React TS Vite Tailwind</text>
+  <text x="520" y="173" class="tech">Framer Motion Next.js</text>
 
   <!-- portfolio profissional -->
   <rect x="575" y="140" width="110" height="55" class="node"/>
-  <text x="630" y="154" class="proj-name">portfolio profissional</text>
-  <image href="https://skillicons.dev/icons?i=react,javascript,vite&perline=3&theme=light" x="598" y="160" width="64" height="22"/>
+  <text x="630" y="153" class="proj-name">portfolio profissional</text>
+  <text x="630" y="165" class="tech">React JS Vite</text>
+  <text x="630" y="173" class="tech">Framer Motion</text>
 
   <!-- site institucional -->
   <rect x="685" y="140" width="110" height="55" class="node"/>
-  <text x="740" y="154" class="proj-name">site institucional</text>
-  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind&perline=4&theme=light" x="700" y="160" width="80" height="22"/>
+  <text x="740" y="153" class="proj-name">site institucional</text>
+  <text x="740" y="165" class="tech">React TS Vite Tailwind</text>
+  <text x="740" y="173" class="tech">i18next Radix UI GA</text>
 
   <!-- Category → Projects (C3) -->
   <path d="M975 108 L975 122" class="line"/>
@@ -108,16 +116,18 @@
   <!-- C3 Projects -->
   <!-- Koda -->
   <rect x="850" y="140" width="110" height="55" class="node"/>
-  <text x="905" y="154" class="proj-name">Koda (Svelte)</text>
-  <image href="https://skillicons.dev/icons?i=svelte,typescript,tailwind,vite,docker,netlify&perline=6&theme=light" x="853" y="160" width="104" height="22"/>
+  <text x="905" y="153" class="proj-name">Koda (Svelte)</text>
+  <text x="905" y="165" class="tech">Svelte TS Tailwind Vite</text>
+  <text x="905" y="173" class="tech">Docker Netlify Chart.js</text>
 
   <!-- Zapedia -->
   <rect x="920" y="140" width="110" height="55" class="node"/>
-  <text x="975" y="154" class="proj-name">Zapedia</text>
-  <image href="https://skillicons.dev/icons?i=react,typescript,vite,tailwind&perline=4&theme=light" x="935" y="160" width="80" height="22"/>
+  <text x="975" y="153" class="proj-name">Zapedia</text>
+  <text x="975" y="165" class="tech">React TS Vite Tailwind</text>
 
   <!-- colorflick -->
   <rect x="990" y="140" width="110" height="55" class="node"/>
-  <text x="1045" y="154" class="proj-name">colorflick</text>
-  <image href="https://skillicons.dev/icons?i=react,javascript,vite,tailwind&perline=4&theme=light" x="1005" y="160" width="80" height="22"/>
+  <text x="1045" y="153" class="proj-name">colorflick</text>
+  <text x="1045" y="165" class="tech">React JS Vite Tailwind</text>
+  <text x="1045" y="173" class="tech">GSAP Zustand TMDB</text>
 </svg>
